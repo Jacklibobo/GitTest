@@ -6,5 +6,6 @@ print b
 c = 10000
 c = 100
 print c
-
+d = 200
+print d
 
